@@ -32,24 +32,24 @@
   - 緊戒發布
   - 可設定所需欄位
    
-資料取得： pyspider
-資料儲存： postgresql
-資料處理： pandas
-服務應用： FastAPI
-程式部屬： centos7 + virtualbox + airflow
-程式碼管理： github
-資料視覺化(未實作)： google sheet, datastudio
+資料取得： pyspider </br>
+資料儲存： postgresql </br>
+資料處理： pandas </br>
+服務應用： FastAPI </br>
+程式部屬： centos7 + virtualbox + airflow </br>
+程式碼管理： github </br>
+資料視覺化(未實作)： google sheet, datastudio </br>
 
-你總共花了多少時間？
-  規劃：1~1.5hr
-  實作：2 days
+你總共花了多少時間？ </br>
+  規劃：1~1.5hr </br>
+  實作：2 days </br>
 
-你覺得哪一部分最困難？
-  電商爬蟲
-  API建置
+你覺得哪一部分最困難？ </br>
+  電商爬蟲 </br>
+  API建置 </br>
 
-你對哪一部分最感興趣？
-  Data pipeline
-  程式部屬
+你對哪一部分最感興趣？ </br>
+  Data pipeline </br>
+  程式部屬 </br>
 
 
